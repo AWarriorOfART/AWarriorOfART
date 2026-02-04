@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameerahmed&style=flat-square&color=1e3a8a" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AWarriorOfART&style=flat-square&color=1e3a8a" alt="Profile views" />
   <img src="https://img.shields.io/badge/Timezone-UTC%2B5-1e3a8a?style=flat-square" alt="Timezone UTC+5" />
   <img src="https://img.shields.io/badge/Focus-Performance%20%26%20UX-1e3a8a?style=flat-square" alt="Focus: Performance & UX" />
 </div>
